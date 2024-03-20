@@ -47,16 +47,3 @@
 
 ###
 
-<div align="left">
-  <a href="sinemarslantr@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sinem-arslann/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="medium.com/@sinemm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="35" height="30" alt="medium logo"  />
-  </a>
-</div>
-
-###
