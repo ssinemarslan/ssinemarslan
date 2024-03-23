@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning manual and automation testing<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Manual/Automation testing and API testing <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
