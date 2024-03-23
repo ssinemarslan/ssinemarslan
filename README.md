@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Manual/Automation testing and API testing <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Manual/Automation testing and API testing <br>🎯 Goals: My goal is improve myself in software testing.<br>🎲 I share my software testing work here.</p>
 
 ###
 
