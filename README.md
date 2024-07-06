@@ -33,8 +33,6 @@
   <img width="5" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="34" alt="postman logo"  />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="34" alt="visualstudio logo"  />
-  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="csharp logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="figma logo"  />
