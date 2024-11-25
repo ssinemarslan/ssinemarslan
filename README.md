@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sinem and I'm a Software Test Engineer, from Turkey</p>
+<p align="left">My name is Sinem and I'm a Software QA Tester, from Turkey</p>
 
 ###
 
